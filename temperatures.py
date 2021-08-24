@@ -6,6 +6,11 @@
 
 # COMMAND ----------
 
+# MAGIC %md
+# MAGIC ### Hello
+
+# COMMAND ----------
+
 from my_lib.my_funcs import *
 
 # COMMAND ----------
